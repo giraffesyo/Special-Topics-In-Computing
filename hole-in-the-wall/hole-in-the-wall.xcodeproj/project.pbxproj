@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		51924B3D2211BE78006AA379 /* Assets.scnassets in Resources */ = {isa = PBXBuildFile; fileRef = 51924B3C2211BE78006AA379 /* Assets.scnassets */; };
 		51FABACC22087A3F00B7642A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51FABACB22087A3F00B7642A /* AppDelegate.swift */; };
 		51FABACE22087A3F00B7642A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51FABACD22087A3F00B7642A /* ViewController.swift */; };
 		51FABAD122087A3F00B7642A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 51FABACF22087A3F00B7642A /* Main.storyboard */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		51924B3C2211BE78006AA379 /* Assets.scnassets */ = {isa = PBXFileReference; lastKnownFileType = wrapper.scnassets; path = Assets.scnassets; sourceTree = "<group>"; };
 		51FABAC822087A3F00B7642A /* hole-in-the-wall.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "hole-in-the-wall.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		51FABACB22087A3F00B7642A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		51FABACD22087A3F00B7642A /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				51FABAD222087A4000B7642A /* Assets.xcassets */,
 				51FABAD422087A4000B7642A /* LaunchScreen.storyboard */,
 				51FABAD722087A4000B7642A /* Info.plist */,
+				51924B3C2211BE78006AA379 /* Assets.scnassets */,
 			);
 			path = "hole-in-the-wall";
 			sourceTree = "<group>";
@@ -125,6 +128,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				51924B3D2211BE78006AA379 /* Assets.scnassets in Resources */,
 				51FABAD622087A4000B7642A /* LaunchScreen.storyboard in Resources */,
 				51FABAD322087A4000B7642A /* Assets.xcassets in Resources */,
 				51FABAD122087A3F00B7642A /* Main.storyboard in Resources */,
